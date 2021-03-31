@@ -1,0 +1,1 @@
+ttps://cdn.statically.io/gh/abdiusu/project-safelink-viomagz/226e08a4/Script-Anti-AdBlock.js
